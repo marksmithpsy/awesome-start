@@ -1,0 +1,89 @@
+Team,Year ,Games, Won, Lost,Tied,WinPercent
+Women's Basketball,2023,26,18,8,0,0.692
+Women's Basketball,2022,32,17,15,0,0.531
+Women's Basketball,2021,33,18,15,0,0.545
+Women's Basketball,2020,23,9,14,0,0.391
+Women's Basketball,2019,31,16,15,0,0.516
+Women's Basketball,2018,32,17,15,0,0.531
+Women's Basketball,2017,30,12,18,0,0.400
+Women's Basketball,2016,29,6,23,0,0.207
+Women's Basketball,2015,27,11,16,0,0.367
+Women's Basketball,2014,30,5,25,0,0.167
+Women's Basketball,2013,32,16,16,0,0.500
+Women's Field Hockey,2023,18,7,11,0,0.389
+Women's Field Hockey,2022,19,4,15,0,0.211
+Women's Field Hockey,2021,18,4,14,0,0.222
+Women's Field Hockey,2020,11,4,7,0,0.364
+Women's Field Hockey,2019,19,3,16,0,0.158
+Women's Field Hockey,2018,18,5,13,0,0.278
+Women's Field Hockey,2017,18,2,16,0,0.111
+Women's Field Hockey,2016,19,6,13,0,0.316
+Women's Field Hockey,2015,19,8,11,0,0.421
+Women's Field Hockey,2014,19,3,16,0,0.158
+Women's Field Hockey,2013,20,6,14,0,0.300
+Women's Lacrosse,2023,18,12,6,0,0.667
+Women's Lacrosse,2022,18,13,5,0,0.722
+Women's Lacrosse,2021,15,11,4,0,0.733
+Women's Lacrosse,2020,6,2,4,0,0.333
+Women's Lacrosse,2019,17,8,9,0,0.471
+Women's Lacrosse,2018,17,8,9,0,0.471
+Women's Lacrosse,2017,18,8,10,0,0.444
+Women's Lacrosse,2016,17,8,9,0,0.471
+Women's Lacrosse,2015,16,6,10,0,0.375
+Women's Lacrosse,2014,19,12,7,0,0.632
+Women's Lacrosse,2013,11,11,7,0,0.611
+Women's Soccer,2023,17,4,11,2,0.294
+Women's Soccer,2022,20,13,3,4,0.750
+Women's Soccer,2021,18,4,10,4,0.333
+Women's Soccer,2020,14,7,4,3,0.607
+Women's Soccer,2019,19,8,8,3,0.500
+Women's Soccer,2018,17,2,14,1,0.147
+Women's Soccer,2017,19,2,14,3,0.184
+Women's Soccer,2016,19,5,13,1,0.289
+Women's Soccer,2015,19,7,12,0,0.368
+Women's Soccer,2014,19,5,12,2,0.316
+Women's Soccer,2013,21,6,11,4,0.381
+Men's Baseball,2023,54,30,24,0,0.556
+Men's Baseball,2022,56,43,13,0,0.768
+Men's Baseball,2021,51,27,24,0,0.529
+Men's Baseball,2020,16,13,3,0,0.812
+Men's Baseball,2019,51,29,22,0,0.569
+Men's Baseball,2018,54,33,21,0,0.611
+Men's Baseball,2017,61,35,26,0,0.574
+Men's Baseball,2016,54,28,26,0,0.519
+Men's Baseball,2015,50,28,22,0,0.560
+Men's Baseball,2014,48,29,19,0,0.604
+Men's Baseball,2013,49,18,31,0,0.367
+Men's Basketball,2023,32,15,17,0,0.469
+Men's Basketball,2022,32,16,16,0,0.500
+Men's Basketball,2021,34,27,7,0,0.794
+Men's Basketball,2020,22,13,9,0,0.591
+Men's Basketball,2019,30,16,14,0,0.533
+Men's Basketball,2018,34,24,10,0,0.706
+Men's Basketball,2017,33,21,12,0,0.636
+Men's Basketball,2016,32,17,15,0,0.531
+Men's Basketball,2015,33,20,13,0,0.606
+Men's Basketball,2014,32,24,8,0,0.750
+Men's Basketball,2013,33,20,13,0,0.606
+Men's Football,2023,11,7,4,0,0.636
+Men's Football,2022,12,8,4,0,0.667
+Men's Football,2021,11,8,3,0,0.727
+Men's Football,2020,7,4,3,0,0.571
+Men's Football,2019,12,8,4,0,0.667
+Men's Football,2018,11,6,5,0,0.545
+Men's Football,2017,11,2,9,0,0.182
+Men's Football,2016,11,2,9,0,0.182
+Men's Football,2015,11,2,9,0,0.182
+Men's Football,2014,12,1,11,0,0.083
+Men's Football,2013,1,1,11,0,0.083
+Men's Soccer,2023,16,10,5,1,0.656
+Men's Soccer,2022,17,6,8,3,0.441
+Men's Soccer,2021,18,9,7,2,0.556
+Men's Soccer,2020,9,3,4,2,0.444
+Men's Soccer,2019,17,4,11,2,0.294
+Men's Soccer,2018,18,9,7,2,0.556
+Men's Soccer,2017,17,8,7,2,0.529
+Men's Soccer,2016,17,4,12,1,0.265
+Men's Soccer,2015,18,5,10,3,0.361
+Men's Soccer,2014,18,10,2,6,0.722
+Men's Soccer,2013,19,8,10,1,0.447
